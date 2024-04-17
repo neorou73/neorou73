@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @neorou73
 - 👀 I’m interested in practical and meaningful web, accessibility and data analysis.
-- 🌱 I’m currently learning data analysis techniques with R.
 - 💞️ I’m currently not looking to collaborate on anything.
 - 📫 How to reach me Kris Poedjosoedarmo (neorou@gmail.com)
 
